@@ -12,7 +12,8 @@ This repository contains solutions to several problems from [Quera.org](https://
 | ChandMidi   | Solution for the “ChandMidi” problem. The notebook explains the question and all requirements.   | [View on Quera](https://quera.org/problemset/251286) |
 | Babel       | Solution for the “Babel” problem. The notebook explains the question and all requirements.       | [View on Quera](https://quera.org/problemset/251287) |
 | Suicide     | Solution for the “Suicide” problem. The notebook explains the question and all requirements.     | [View on Quera](https://quera.org/problemset/254932) |
-| CrimeDetection         | Solution for the “CrimeDetection” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/251279?tab=description) |
+| CrimeDetection         | Solution for the “CrimeDetection” problem. The notebook explains the question and all requirements.         |[View on Quera](https://quera.org/problemset/251279?tab=description) |
+| Jajiga         | Solution for the “Jajiga” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/251283) |
 
 ## Structure
 
@@ -25,7 +26,8 @@ Quera-Problems/
 ├── ChandMidi/
 ├── Babel/
 ├── Suicide/
-└── CrimeDetection/
+├── CrimeDetection/
+└── Jajiga/
 ```
 
 Each folder contains:
