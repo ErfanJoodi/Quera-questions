@@ -20,6 +20,7 @@ This repository contains solutions to several problems from [Quera.org](https://
 | PricePrediction         | Solution for the “PricePrediction” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/197300) |
 | Cement         | Solution for the “Cement” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/contest/assignments/84381/problems/308146) |
 | FraudDetection         | Solution for the “FraudDetection” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/contest/assignments/84381/problems/308147) |
+| SpaceProgram         | Solution for the “SpaceProgram” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/contest/assignments/84381/problems/308148) |
 
 ## Structure
 
@@ -39,7 +40,8 @@ Quera-Problems/
 ├── Clustering/
 ├── PricePrediction/
 ├── Cement/
-└── FraudDetection/
+├── FraudDetection/
+└── SpaceProgram/
 ```
 
 Each folder contains:
