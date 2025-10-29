@@ -17,6 +17,7 @@ This repository contains solutions to several problems from [Quera.org](https://
 | Startup         | Solution for the “Startup” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/254934) |
 | MovementStatus         | Solution for the “MovementStatus” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/254935) |
 | Clustering         | Solution for the “Clustering” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/287262) |
+| PricePrediction         | Solution for the “PricePrediction” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/197300) |
 
 ## Structure
 
@@ -33,7 +34,8 @@ Quera-Problems/
 ├── Jajiga/
 ├── Startup/
 ├── MovementStatus/
-└── Clustering/
+├── Clustering/
+└── PricePrediction/
 ```
 
 Each folder contains:
