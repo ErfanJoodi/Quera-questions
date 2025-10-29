@@ -16,6 +16,7 @@ This repository contains solutions to several problems from [Quera.org](https://
 | Jajiga         | Solution for the “Jajiga” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/251283) |
 | Startup         | Solution for the “Startup” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/254934) |
 | MovementStatus         | Solution for the “MovementStatus” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/254935) |
+| Clustering         | Solution for the “Clustering” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/287262) |
 
 ## Structure
 
@@ -31,7 +32,8 @@ Quera-Problems/
 ├── CrimeDetection/
 ├── Jajiga/
 ├── Startup/
-└── MovementStatus/
+├── MovementStatus/
+└── Clustering/
 ```
 
 Each folder contains:
