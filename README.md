@@ -15,6 +15,7 @@ This repository contains solutions to several problems from [Quera.org](https://
 | CrimeDetection         | Solution for the “CrimeDetection” problem. The notebook explains the question and all requirements.         |[View on Quera](https://quera.org/problemset/251279?tab=description) |
 | Jajiga         | Solution for the “Jajiga” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/251283) |
 | Startup         | Solution for the “Startup” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/254934) |
+| MovementStatus         | Solution for the “MovementStatus” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/254935) |
 
 ## Structure
 
@@ -29,7 +30,8 @@ Quera-Problems/
 ├── Suicide/
 ├── CrimeDetection/
 ├── Jajiga/
-└── Startup/
+├── Startup/
+└── MovementStatus/
 ```
 
 Each folder contains:
