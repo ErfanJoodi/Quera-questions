@@ -19,6 +19,7 @@ This repository contains solutions to several problems from [Quera.org](https://
 | Clustering         | Solution for the “Clustering” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/287262) |
 | PricePrediction         | Solution for the “PricePrediction” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/197300) |
 | Cement         | Solution for the “Cement” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/contest/assignments/84381/problems/308146) |
+| FraudDetection         | Solution for the “FraudDetection” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/contest/assignments/84381/problems/308147) |
 
 ## Structure
 
@@ -37,7 +38,8 @@ Quera-Problems/
 ├── MovementStatus/
 ├── Clustering/
 ├── PricePrediction/
-└── Cement/
+├── Cement/
+└── FraudDetection/
 ```
 
 Each folder contains:
