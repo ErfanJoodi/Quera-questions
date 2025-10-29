@@ -18,6 +18,7 @@ This repository contains solutions to several problems from [Quera.org](https://
 | MovementStatus         | Solution for the “MovementStatus” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/254935) |
 | Clustering         | Solution for the “Clustering” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/287262) |
 | PricePrediction         | Solution for the “PricePrediction” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/problemset/197300) |
+| Cement         | Solution for the “Cement” problem. The notebook explains the question and all requirements.         | [View on Quera](https://quera.org/contest/assignments/84381/problems/308146) |
 
 ## Structure
 
@@ -35,7 +36,8 @@ Quera-Problems/
 ├── Startup/
 ├── MovementStatus/
 ├── Clustering/
-└── PricePrediction/
+├── PricePrediction/
+└── Cement/
 ```
 
 Each folder contains:
